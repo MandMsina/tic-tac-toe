@@ -1,1 +1,10 @@
-
+<RCC>
+    <qresource prefix="/fir">
+        <file>X.png</file>
+        <file>O.png</file>
+        <file>MainIcon.png</file>
+        <file>secondVar.png</file>
+        <file>Xr.png</file>
+        <file>Or.png</file>
+    </qresource>
+</RCC>
